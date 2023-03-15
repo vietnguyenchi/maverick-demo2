@@ -3,6 +3,10 @@
         width: 100%;
     }
 
+    .nav {
+        padding: 0 10px;
+    }
+
     .header-top {
         font-size: 15px;
         height: 25px;
