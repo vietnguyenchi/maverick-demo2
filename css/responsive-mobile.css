@@ -353,6 +353,10 @@
         align-self: center;
     }
 
+    .sale-content > img {
+        margin-right: 10px;
+    }
+
     /* Best seller */
     .best-sallers {
         margin: 0;
@@ -513,6 +517,7 @@
 
     .menu-item {
         width: 100%;
+        margin-bottom: 30px;
     }
 
     .menu-item > img {
@@ -523,6 +528,7 @@
     .menu-item > p {
         font-weight: 600;
         color: #4A3510;
+        
     }
 
     .menu > button {
