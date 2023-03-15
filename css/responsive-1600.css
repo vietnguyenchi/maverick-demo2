@@ -1,4 +1,4 @@
-@media (max-width: 1600px) {
+@media (max-width: 1600px){
     /* header */
     .nav > ul{
         width: 45%;
@@ -50,14 +50,30 @@
 
     /* Discount */
 
-    .discount-image {
+    #discount-image {
         width: 50%;
         height: fit-content;
+        height: 100%;
+    }
+
+    #discount-image > img {
+        height: 100%;
     }
 
     /* Menu */
+
     .menu-item > p {
         font-size: 15px;
+        font-weight: bold;
+    }
+
+    /* .menu-item {
+        position: relative;
+    } */
+
+    .menu-container > .menu-item:nth-child(4) > img {
+        position: relative;
+        top: -10px;
     }
 
     .discount-btn {
@@ -84,6 +100,7 @@
     .revol-content > p:nth-child(2){
         font-size: 18px;
         margin: 10px;
+        padding: 0;
     }
 
     .revol-content > button {
@@ -95,6 +112,13 @@
         width: 250px;
         height: 50px;
         font-size: 18px;
+    }
+
+    /* Offer */
+    .offer-container > button{
+        width: 120px;
+        font-size: 18px;
+        height: 50px;
     }
 
     /* footer */
