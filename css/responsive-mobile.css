@@ -13,6 +13,10 @@
         height: 15px;
     }
 
+    .nav {
+        padding: 0 5px;
+    }
+
     .nav > a > img {
         width: 30px;
     }
