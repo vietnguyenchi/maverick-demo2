@@ -165,6 +165,7 @@
     .sale-top > h1 {
         font-size: 28px;
         text-align: center;
+        margin-bottom: 15px;
     }
 
     .sale-infor {
@@ -180,7 +181,7 @@
 
     .sale-bottom > a {
         width: 45%;
-        margin-bottom: 30px;
+        margin-bottom: 50px;
     }
 
     .item-image {
@@ -411,6 +412,7 @@
 
     .menu-item {
         width: 45%;
+        margin-bottom: 30px;
     }
 
     .menu-item > p {
