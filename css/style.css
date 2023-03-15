@@ -23,10 +23,6 @@ body {
     width: 30px;
 }
 
-.header {
-    /* height: 1033px; */
-    position: relative;
-}
 
 .header > input {
     display: none;
@@ -60,7 +56,7 @@ body {
     align-items: center;
     justify-content: space-between;
     position: sticky;
-    top: 0;
+    top: -5px;
     background-color: #fff;
     z-index: 1000;
     box-shadow: 0 0 5px gray;
@@ -101,7 +97,7 @@ body {
     color: #000;
 }
 
-.nav-icon > input {
+.main > input {
     display: none;
 }
 
