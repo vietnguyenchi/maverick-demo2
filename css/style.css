@@ -176,7 +176,7 @@ body {
     z-index: 1000;
     background-color: #fff;
     box-shadow: 0 0 5px gray;
-    margin-top: 23px;
+    margin-top: 15px;
     left: 0;
 }
 
@@ -625,6 +625,7 @@ body {
 #discount-image {
     width: 48.22916666666667%;
     /* width: 50%; */
+    height: 100%;
 }
 
 #discount-image > img {
@@ -993,7 +994,6 @@ body {
     font-size: 23px;
     font-weight: 400;
     line-height: 29px;
-    letter-spacing: 0em;
     text-align: left;
     margin: 13px 0;
 }
